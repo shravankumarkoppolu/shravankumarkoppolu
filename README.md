@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I’m Shravan Kumar Koppolu
 
-<!--
-**shravankumarkoppolu/shravankumarkoppolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Graduate | 💻 Java & Full-Stack Developer | ☁️ Cloud & Microservices Engineer
 
-Here are some ideas to get you started:
+I specialize in building secure, scalable, and high-performance enterprise applications, with deep experience in banking and financial services using modern cloud-native architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me :
+
+🎓 Master of Science in Information Technology - Indiana Wesleyan University (GPA: 4.0/4.0)
+
+👨‍💻 4+ years of professional experience as a Java Developer in BFSI domains
+
+☁️ Strong expertise in AWS, Kubernetes, Microservices, and API development
+
+🔐 Experienced in building secure, resilient systems using OAuth2, JWT, CI/CD, and monitoring tools
+
+🌱 Passionate about scalability, performance optimization, cloud automation, and distributed systems
+
+🎯 Goal: Design and deliver reliable, scalable software solutions that create real business impact
+
+⚡ Tech Stack ;
+💻 Programming Languages
+
+Java · SQL · Python · JavaScript (ES6+) · TypeScript
+
+🛠️ Frameworks & Libraries ;
+
+Spring Boot · Spring Cloud · Spring MVC · Hibernate · JPA · React · Angular · Node.js · REST & GraphQL APIs
+
+☁️ Cloud, DevOps & Platforms ;
+
+AWS (ECS, Lambda, S3, RDS, API Gateway, IAM, VPC)
+Docker · Kubernetes · Terraform · Jenkins · GitHub Actions · OpenShift
+
+📊 Databases & Messaging ;
+
+PostgreSQL · Oracle · MySQL · MongoDB · Redis · Cassandra
+Apache Kafka · RabbitMQ
+
+🔐 Security & Monitoring ;
+
+Spring Security (OAuth2, JWT) · Prometheus · Grafana · ELK Stack · Zipkin
