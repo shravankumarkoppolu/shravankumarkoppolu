@@ -29,8 +29,8 @@ I specialize in building scalable systems, mastering cloud technologies, and del
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Koppolu shravan kumar&show_icons=true&theme=radical" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koppolu shravan kumar&layout=compact&theme=radical" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Koppolushravankumar&show_icons=true&theme=radical" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koppolushravankumar&layout=compact&theme=radical" />
 </p>
 
 ---
