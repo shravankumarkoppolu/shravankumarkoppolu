@@ -8,7 +8,7 @@ I specialize in building scalable systems, mastering cloud technologies, and del
 
 ## 🧠 **About Me:**
 - 🎓 **Master’s in Information Technology** at **Indiana Wesleyan University** *(Graduated)*
-- 👩‍💻 **4+ years** of experience in **Java**, **Spring Boot**
+- 👩‍💻 **5+ years** of experience in **Java**, **Spring Boot**
 - ☁️ Expertise in **Cloud Computing**, **Microservices Architectures**
 - 🌱 Passionate about **Auto-scaling** , **Performance Optimization**, **CI/CD**, **Distributed Systems** and **Software Development**
 - 🎯 **Goal**: To build scalable and efficient software solutions
